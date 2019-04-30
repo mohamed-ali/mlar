@@ -6,11 +6,13 @@
 <p dir="rtl">
 التعرّف على الحروف العربية بإستعمال التعلّم العميق
 </p>
+ 
  * https://github.com/tahaemara/arabic-characters-recognition
 
 <p dir="rtl">
 بيانات لتدريب خوارزمية تعلّم الآلة للتعرّف على الحروف العربية:
 </p>
+ 
  * https://www.kaggle.com/mloey1/ahcd1 
 
 ## <p dir="rtl">كيف تساهم في هذا المشروع</p>
