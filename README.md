@@ -7,3 +7,8 @@
 التعرّف على الحروف العربية بإستعمال التعلّم العميق
 </p>
 * https://github.com/tahaemara/arabic-characters-recognition
+
+<p dir="rtl">
+بيانات لتدريب خورزمية تعلّم الآلة للتعرّف على الحروف العربية:
+</p>
+* https://www.kaggle.com/mloey1/ahcd1 
