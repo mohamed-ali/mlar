@@ -3,4 +3,7 @@
 
 ## <p dir="rtl">مشاريع مفتوحة لإستعمال تعلّم الآلة على اللغة العربية</p>
 
+<p dir="rtl">
+التعرّف على الحروف العربية بإستعمال التعلّم العميق
+</p>
 * https://github.com/tahaemara/arabic-characters-recognition
