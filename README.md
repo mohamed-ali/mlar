@@ -13,6 +13,11 @@
  
  * https://www.kaggle.com/mloey1/ahcd1 
 
+## <p dir="rtl">بيانات لتدريب خوارزميات تعلّم الآلة</p>
+
+ - http://opus.nlpl.eu/
+ - https://www.kaggle.com/mloey1/ahcd1
+
 ## <p dir="rtl">كيف تساهم في هذا المشروع</p>
 
 <p dir="rtl">
