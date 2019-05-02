@@ -5,9 +5,13 @@
 
 ## <p dir="rtl">مشاريع مفتوحة لإستعمال تعلّم الآلة على اللغة العربية</p>
 
-### <p dir="rtl">المشروع: التعرّف على الحروف العربية بإستعمال التعلّم العميق</p>
- 
- * https://github.com/tahaemara/arabic-characters-recognition
+<div align="right">
+
+|الرّابط|المشروع|
+|:-------------:| -----:|
+|https://github.com/tahaemara/arabic-characters-recognition|التعرّف على الحروف العربية بإستعمال التعلّم العميق|
+
+</div>
 
 <p dir="rtl">
 بيانات لتدريب خوارزمية تعلّم الآلة للتعرّف على الحروف العربية:
