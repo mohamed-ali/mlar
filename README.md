@@ -3,6 +3,11 @@
 # <p dir="rtl">تعلّم الآلة</p>
 <p dir="rtl"> مدخل إلى تعلّم الآلة باللغة العربيّة</p>
 
+<p dir="rtl">
+يمكنك فتح و تجربة كل الدروس على
+ [colab](https://colab.research.google.com/github/mohamed-ali/mlar/)
+ <p>
+
 ## <p dir="rtl">مشاريع مفتوحة لإستعمال تعلّم الآلة على اللغة العربية</p>
 
 <div align="right">
