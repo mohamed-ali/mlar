@@ -6,6 +6,8 @@
 <p dir="rtl">
  يمكنك فتح و تجربة كل الدروس على
 <a href="https://colab.research.google.com/github/mohamed-ali/mlar/" >Google colab</a>
+ أو قراءتها على 
+<a href="https://nbviewer.jupyter.org/github/mohamed-ali/mlar/tree/master/" >Jupyter nbviewer</a>
 </p>
  
  
