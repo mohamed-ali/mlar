@@ -1,6 +1,6 @@
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/mohamed-ali/mlar/issues)
 
-# machine learning <p dir="rtl">تعلّم الآلة</p>
+# <p dir="rtl">Machine learning - تعلّم الآلة</p>
 <p dir="rtl"> مدخل إلى تعلّم الآلة باللغة العربيّة</p>
 
 <p dir="rtl">
