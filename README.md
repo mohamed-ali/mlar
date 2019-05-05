@@ -3,7 +3,10 @@
 # <p dir="rtl">تعلّم الآلة</p>
 <p dir="rtl"> مدخل إلى تعلّم الآلة باللغة العربيّة</p>
 
-[colab](https://colab.research.google.com/github/mohamed-ali/mlar/) <p dir="rtl">يمكنك فتح و تجربة كل الدروس على</p>
+<p dir="rtl">
+ يمكنك فتح و تجربة كل الدروس على
+<a href="https://colab.research.google.com/github/mohamed-ali/mlar/" >Google colab</a>
+</p>
  
  
 
