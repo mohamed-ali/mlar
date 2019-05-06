@@ -1,11 +1,13 @@
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/mohamed-ali/mlar/issues)
 
-# <p dir="rtl">تعلّم الآلة</p>
+# <p dir="rtl">تعلّم الآلة - Machine learning</p>
 <p dir="rtl"> مدخل إلى تعلّم الآلة باللغة العربيّة</p>
 
 <p dir="rtl">
  يمكنك فتح و تجربة كل الدروس على
 <a href="https://colab.research.google.com/github/mohamed-ali/mlar/" >Google colab</a>
+ أو قراءتها على 
+<a href="https://nbviewer.jupyter.org/github/mohamed-ali/mlar/tree/master/" >Jupyter nbviewer</a>
 </p>
  
  
